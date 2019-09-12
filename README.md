@@ -1,4 +1,4 @@
-# Line Chart Lorraine 
+# Line Chart Robin 
 
 Chart example for Python
 
