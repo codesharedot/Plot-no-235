@@ -4,5 +4,5 @@ import numpy as np
 x = np.linspace(-1, 1, 50)
 y = 1*x
 
-plt.plot(x, y,'r--',linewi    dth=3)
+plt.plot(x, y,'c-',linewidth=4)
 plt.savefig('chart.png')

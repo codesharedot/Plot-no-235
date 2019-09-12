@@ -1,4 +1,4 @@
-# Line Chart Norma 
+# Line Chart Ann 
 
 Chart example for Python
 
