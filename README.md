@@ -1,4 +1,4 @@
-# Line Chart Robert 
+# Line Chart Norma 
 
 Chart example for Python
 
