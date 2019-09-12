@@ -1,5 +1,5 @@
-# third order chart 
+# line chart Jasper 
 
-This program creates a third order chart.
+Chart example for Python
 
-https://pythonbasics.org
+https://pythonprogramminglanguage.com

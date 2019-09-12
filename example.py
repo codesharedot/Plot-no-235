@@ -2,8 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 x = np.linspace(-1, 1, 50)
-print(x)
-y = x*x*x + 1
+y = 8*x
 
-plt.plot(x, y)
+plt.plot(x, y,r-,linewidth=6)
 plt.show()
