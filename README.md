@@ -1,4 +1,4 @@
-# Line Chart Beth 
+# Line Chart Mary 
 
 Chart example for Python
 
