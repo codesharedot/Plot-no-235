@@ -1,4 +1,4 @@
-# Line Chart Hue 
+# Line Chart Gwendolyn 
 
 Chart example for Python
 
