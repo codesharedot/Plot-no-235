@@ -1,4 +1,4 @@
-# Line Chart April 
+# Line Chart Janice 
 
 Chart example for Python
 
