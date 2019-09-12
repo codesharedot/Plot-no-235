@@ -1,4 +1,4 @@
-# Line Chart Tanya 
+# Line Chart Heidi 
 
 Chart example for Python
 
