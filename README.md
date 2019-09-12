@@ -1,4 +1,4 @@
-# Line Chart Haydee 
+# Line Chart Tanya 
 
 Chart example for Python
 
