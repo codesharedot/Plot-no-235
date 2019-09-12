@@ -1,4 +1,4 @@
-# Line Chart Gwendolyn 
+# Line Chart Haydee 
 
 Chart example for Python
 
