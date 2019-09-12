@@ -1,4 +1,4 @@
-# Line Chart Ann 
+# Line Chart Lorraine 
 
 Chart example for Python
 
