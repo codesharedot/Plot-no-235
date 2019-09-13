@@ -1,4 +1,4 @@
-# Line Chart Janice 
+# Line Chart Linda 
 
 Example for my book (matplotlib, python)
 
