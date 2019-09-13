@@ -1,4 +1,4 @@
-# Line Chart Carrie 
+# Line Chart Paula 
 
 Chart example for Python
 
