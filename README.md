@@ -1,6 +1,6 @@
-# Line Chart Vickie 
+# Line Chart Maria 
 
-Chart example for Python
+Example for my book (matplotlib, python)
 
 https://pythonprogramminglanguage.com
 
