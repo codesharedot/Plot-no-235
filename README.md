@@ -1,4 +1,4 @@
-# Line Chart Paula 
+# Line Chart Viola 
 
 Chart example for Python
 
