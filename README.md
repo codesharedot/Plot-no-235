@@ -1,4 +1,4 @@
-# Line Chart Lesley 
+# Line Chart Carrie 
 
 Chart example for Python
 
