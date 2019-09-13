@@ -1,4 +1,4 @@
-# Line Chart Janice 
+# Line Chart Lesley 
 
 Chart example for Python
 
