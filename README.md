@@ -1,4 +1,4 @@
-# Quadratic Line Chart Shari 
+# Quadratic Line Chart Garnett 
 
 Example for my book (matplotlib, python)
 
