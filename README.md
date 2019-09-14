@@ -1,4 +1,4 @@
-# Quadratic Line Chart Adell 
+# Quadratic Line Chart Melva 
 
 Example for my book (matplotlib, python)
 

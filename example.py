@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 x = np.linspace(-1, 1, 50)
-y = 2*x*x
+y = 3*x*x
 
-plt.plot(x, y,'y--',linewidth=6)
+plt.plot(x, y,'m-',linewidth=10)
 plt.savefig('chart.png')
