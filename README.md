@@ -1,4 +1,4 @@
-# Line Chart Kelly 
+# Line Chart Dorothy 
 
 Example for my book (matplotlib, python)
 
