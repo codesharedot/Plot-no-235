@@ -1,4 +1,4 @@
-# Quadratic Line Chart Bertha 
+# Quadratic Line Chart Melodie 
 
 Example for my book (matplotlib, python)
 
