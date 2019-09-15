@@ -1,4 +1,4 @@
-# Quadratic Line Chart Nellie 
+# Quadratic Line Chart Dorothy 
 
 Example for my book (matplotlib, python)
 
