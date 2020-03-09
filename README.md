@@ -1,4 +1,4 @@
-# Plain chart no 1 
+# Plot no 2 
 
 matplotlib example
 
