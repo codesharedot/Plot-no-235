@@ -1,8 +1,16 @@
-import matplotlib.pyplot as plt
 import numpy as np
+import matplotlib.pyplot as plt
 
-x = np.linspace(-1, 1, 50)
-y = 3*x
+labels = ['G1', 'G2', 'G3', 'G4', 'G5']
+m_means = [4,7,3,2,9]
+m_std = [2, 3, 4, 1, 2]
+width = 0.35       # the width of the bars
 
-plt.plot(x, y,'r-',linewidth=3)
+fig, ax = plt.subplots()
+
+ax.bar(labels, m_means, width, yerr=m_std, label='Data')
+ax.set_ylabel('Scores')
+ax.set_title('Visual')
+ax.legend()
+plt.show()
 plt.savefig('chart.png')

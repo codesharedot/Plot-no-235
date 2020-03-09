@@ -1,7 +1,7 @@
-# Plain Line Chart  
+# Plain chart no 1 
 
-Example for my book (matplotlib, python)
+matplotlib example
 
-https://pythonprogramminglanguage.com
+https://pythonbasics.org
 
 <img src='chart.png'>
