@@ -1,16 +1,24 @@
-import numpy as np
 import matplotlib.pyplot as plt
+import numpy as np
 
-labels = ['G1', 'G2', 'G3', 'G4', 'G5']
-m_means = [3,2,0,1,1]
-m_std = [2, 3, 4, 1, 2]
-width = 0.35       # the width of the bars
+# Fixing random state for reproducibility
+np.random.seed(19680801)
 
+plt.rcdefaults()
 fig, ax = plt.subplots()
 
-ax.bar(labels, m_means, width, yerr=m_std, label='Data')
-ax.set_ylabel('Scores')
-ax.set_title('Visual')
-ax.legend()
+# Example data
+people = ('A', 'B', 'C', 'D', 'E')
+y_pos = np.arange(len(people))
+performance = 3 + 10 * np.random.rand(len(people))
+error = np.random.rand(len(people))
+
+ax.barh(y_pos, performance, xerr=error, align='center')
+ax.set_yticks(y_pos)
+ax.set_yticklabels(people)
+ax.invert_yaxis()  # labels read top-to-bottom
+ax.set_xlabel('x label')
+ax.set_title('visual')
+
 plt.show()
 plt.savefig('chart.png')
