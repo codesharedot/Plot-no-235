@@ -1,4 +1,4 @@
-# Plot no 5 
+# Plot no 6 
 
 matplotlib example
 
