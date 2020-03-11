@@ -1,24 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Fixing random state for reproducibility
-np.random.seed(19680801)
+x = np.linspace(-1, 1, 50)
+y = 6*x
 
-plt.rcdefaults()
-fig, ax = plt.subplots()
-
-# Example data
-people = ('A', 'B', 'C', 'D', 'E')
-y_pos = np.arange(len(people))
-performance = 3 + 10 * np.random.rand(len(people))
-error = np.random.rand(len(people))
-
-ax.barh(y_pos, performance, xerr=error, align='center')
-ax.set_yticks(y_pos)
-ax.set_yticklabels(people)
-ax.invert_yaxis()  # labels read top-to-bottom
-ax.set_xlabel('x label')
-ax.set_title('visual')
-
-#plt.show()
+plt.plot(x, y,'c-.',linewidth=7)
 plt.savefig('chart.png')
